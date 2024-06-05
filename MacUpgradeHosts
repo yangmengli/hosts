@@ -1,0 +1,8 @@
+## Mac Software Update (sysin)
+127.0.0.2 swdist.apple.com
+127.0.0.2 swscan.apple.com
+127.0.0.2 swcdn.apple.com 
+127.0.0.2 gdmf.apple.com
+127.0.0.2 mesu.apple.com
+127.0.0.2 xp.apple.com
+#127.0.0.2 updates.cdn-apple.com
